@@ -2,10 +2,10 @@
 Welcome to my project repository for the Kaggle competition on predicting academic success. This project involves building a classification model to predict student success based on various demographic and academic factors.
 
 Project Overview:
-Objective: To classify students' academic success using machine learning techniques.
+**Objective: To classify students' academic success using machine learning techniques.
 Dataset: Provided by Kaggle, containing features such as student demographics, prior academic performance, and socio-economic factors.
 Approach: Utilized data preprocessing, feature selection, and multiple classification algorithms to develop an accurate predictive model.
-Results: Achieved a top 200 ranking in the competition, demonstrating the model's effectiveness in predicting academic outcomes.
+Results: Achieved a top 200 ranking in the competition, demonstrating the model's effectiveness in predicting academic outcomes.**
 This project showcases my skills in data analysis, feature engineering, and model optimization, contributing to better educational insights.
 
 # Explore the repository to see the detailed implementation and results!
